@@ -1,0 +1,168 @@
+idmodele,nommodele,idmarque,idcategorie
+ada85,Shield stacking headers,adafruit,connec
+ada369,Male DC Power adapter,adafruit,adapt
+ada400,Extra-long break-away,adafruit,connec
+ada591,Perma-Proto,adafruit,proto
+ada743,Waterproof DC Power,adafruit,cab
+ada996,Brass Liquid Solenoid Valve,adafruit,act
+ada997,Plastic Water Solenoid Valve,adafruit,act
+ada1661,uFL SMT,adafruit,connec
+ada1865,Edge-Launch SMA,adafruit,connec
+ada1918,Analog UV Light,adafruit,capt
+ada1980,TSL2591 High Dynamic Range Digital Light,adafruit,capt
+ada2652,BME280 I2C or SPI Temperature Humidity Pressure,adafruit,capt
+ada2788,DC Jack Adapter,adafruit,cab
+ada2895,Non-Latching Mini Relay FeatherWing,adafruit,cartext
+ada2900,FeatherWing OLED,adafruit,ecr
+ada2922,Adalogger FeatherWing - RTC + SD ,adafruit,cartext
+ada3028,DS3231 Precision RTC FeatherWing,adafruit,cartext
+ada3072,Adafruit RFM95W LoRa Radio Transceiver,adafruit,com
+ada3133,Ultimate GPS FeatherWing,adafruit,cartext
+ada3191,Power Relay FeatherWing,adafruit,cartext
+ada3201,Ethernet FeatherWing,adafruit,cartext
+ada3231,LoRa Radio FeatherWing,adafruit,com
+ada3317,VL53L0X Time of Flight Distance,adafruit,capt
+ada3405,HUZZAH32 – ESP32,adafruit,platdev
+ada3417,FeatherWing Tripler Mini Kit,adafruit,proto
+ada3595,APDS9960 Proximity Light RGB Gesture,adafruit,capt
+ada3942,HC-SR04 Ultrasonic Sonar Distance,adafruit,capt
+ada3967,VL53L1X Time of Flight Distance,adafruit,capt
+ada4062,Feather nRF52840 Express,adafruit,platdev
+ada4162,VEML7700 Lux,adafruit,capt
+ada4210,STEMMA QT / Qwiic JST 100mm,adafruit,cab
+ada4253,Quad 2x2 FeatherWing Kit,adafruit,proto
+ada4397,STEMMA QT / Qwiic JST 150mm,adafruit,cab
+ada4469,Adafruit MLX90640 24x32 IR Thermal,adafruit,cam
+ada4483,5-pin JST ESLOV to 4-pin JST,adafruit,cab
+ada4566,AHT20 - Temperature & Humidity,adafruit,capt
+ada4712,Adafruit LC709203F LiPoly / LiIon Fuel Gauge,adafruit,jaug
+ada4714,JST-PH 2-pin Jumper Cable 100mm,adafruit,cab
+ada4755,Universal USB/DC/Solar Lithium Ion/Polymer charger,adafruit,charg
+ada4775,Metro ESP32-S2,adafruit,platdev
+ada4800,MagTag 2.9 Grayscale E-Ink WiFi,adafruit,platdev
+ada4827,Combination WiFi + Bluetooth 4.0 USB,adafruit,adapt
+ada4829,SGP40 Air Quality,adafruit,capt
+ada4831,LTR390 UV Light,adafruit,capt
+ada5000,ESP32-S2 Feather PSRAM,adafruit,platdev
+ada5046,BME688 Temperature Humidity Pressure Gas,adafruit,capt
+ada5066,Clear Turbine Water Flow,adafruit,capt
+ada5187,SCD-40 CO2 Temperature and Humidity,adafruit,capt
+ada5190,SCD-41 CO2 Temperature and Humidity,adafruit,capt
+ada5303,ESP32-S2 Feather with BME280 Sensor,adafruit,platdev
+ada5323,ESP32-S3 Feather,adafruit,platdev
+ada5336,ESP32-S3-DevKitC-1-N8R8,adafruit,platdev
+ada5366,6V 2W Solar Panel,adafruit,pansol
+ada5400,ESP32 Feather V2,adafruit,platdev
+ada5438,ESP32 Feather V2 w.FL Antenna,adafruit,platdev
+ada5665,Sensirion SHT45 Precision Temperature & Humidity,adafruit,capt
+ada5712,Feather RP2040 RFM69,adafruit,platdev
+ada5862,Grove and Stemma QT FeatherWing,adafruit,proto
+ans1001-0050,ANSMANN 1001-0050 Chargeur,ansmann,charg
+ans1307-0000,ANSMANN 1307-0000 Batterie,ansmann,bat
+A000066,Uno Rev3,arduino,platdev
+A000067,Mega 2560 Rev3,arduino,platdev
+ABX00023,MKR WiFi 1010,arduino,platdev
+ABX00029,MKR WAN 1310,arduino,platdev
+ABX00047,MKR IoT Carrier,arduino,cartext
+ABX00050,Nicla Sense ME,arduino,platdev
+ABX00063,GIGA R1 WiFi ,arduino,platdev
+ABX00080,UNO R4 Minima,arduino,platdev
+ABX00087,UNO R4 WiFi,arduino,platdev
+ASX00006,MKR ETH Shield,arduino,cartext
+ASX00007,MKR Connector Carrier,arduino,cartext
+ASX00029,MKR ENV Shield rev2,arduino,cartext
+TPX00031,Sensor Kit,arduino,cartext
+TSX00002,Proto Large Shield,arduino,proto
+X000016,Dipole Pentaband Waterproof,arduino,ant
+DFR0055,Gravity: Terminal Sensor Adapter V2.0,dfrobot,adapt
+DFR0165,Gravity: IO Sensor Shield For Arduino Mega Due,dfrobot,cartext
+DFR0198,Waterproof DS18B20 Digital Temperature,dfrobot,capt
+DFR0229,Fermion: MicroSD Card Module for Arduino,dfrobot,cartext
+DFR0265,Gravity: IO Expansion Shield for Arduino V7.1,dfrobot,cartext
+DFR0469,Gravity: I2C SD2405 RTC Module,dfrobot,cartext
+DFR0478,FireBeetle ESP32 IoT,dfrobot,platdev
+DFR0483,Gravity I/O Expansion Shield - FireBeetle Covers,dfrobot,cartext
+DFR0559,Solar Power Manager 5V,dfrobot,cartext
+DFR0563,Gravity: I2C 3.7V Li Battery Fuel Gauge,dfrobot,jaug
+DFR0576,Gravity: Digital 1-to-8 I2C Multiplexer,dfrobot,adapt
+DFR0579,Micro Solar Power Manager,dfrobot,cartext
+DFR0654-F,FireBeetle 2 ESP32-E IoT Header,dfrobot,platdev
+DFR0762,Gravity: IO Shield for FireBeetle 2,dfrobot,cartext
+DFR0848,Gravity: Expansion Board for Raspberry Pi Pico 1 / 2,dfrobot,cartext
+DFR0850,Ethernet and PoE Shield for Arduino,dfrobot,cartext
+FIT0011,Gravity: Digital Sensor Cable for Arduino 30 cm,dfrobot,cab
+FIT0031,Gravity: Analog Sensor Cable for Arduino – 30cm,dfrobot,cab
+FIT0131,9V to Barrel Jack Adapter,dfrobot,cab
+FIT0099,ProtoBoard - Rectangle Single Sided (58mm x 78mm),dfrobot,proto
+KIT0003,EcoDuino - An Auto Planting Kit,dfrobot,kit
+KIT0021,Gravity: Waterproof DS18B20 Temperature Sensor Kit,dfrobot,capt
+KIT0150,Gravity: 37 PCS Sensor Set for Arduino / Raspberry Pi,dfrobot,kit
+SEN0204,Gravity: Non-contact Digital Liquid Level,dfrobot,capt
+SEN0223,Gravity: Conductivity Sensor Switch,dfrobot,capt
+SEN0236,Gravity: I2C BME280 Environmental,dfrobot,capt
+SEN0291,Gravity: I2C Digital Wattmeter,dfrobot,capt
+SEN0308,Gravity: IP65 Capacitive Soil Moisture,dfrobot,capt
+SEN0311,A02YYUW Waterproof Ultrasonic Distance Sensor 3~450cm IP67,dfrobot,capt
+SEN0500,Fermion Temperature Humidity Pressure Ambient Light UV,dfrobot,capt
+SEN0501,Gravity: Temperature Humidity Pressure Ambient Light and UV,dfrobot,capt
+SEN0546,I2C Temperature & Humidity Sensor,dfrobot,capt
+TEL0010,USB to TTL Converter,dfrobot,adapt
+TEL0092,ESP8266 WiFi Bee for Arduino UNO / Leonardo,dfrobot,com
+TEL0107,WiFiBee-MT7681,dfrobot,com
+TEL0115,LoRa Radio Module – 868MHz,dfrobot,com
+TEL0116,LoRa Radio Module – 433MHz,dfrobot,com
+TEL0121,LoRa Radio 433MHz – FireBeetle Covers,dfrobot,com
+TEL0125,LoRa Radio 868MHz - FireBeetle Covers,dfrobot,com
+TEL0126,Gravity: WiFi IoT Module,dfrobot,com
+ea_pr523450,EAST Technology PR523450 Batterie,east,bat
+ESP32-C6-DEVKITC-1-N8,ESP32-C6-WROOM-1 Wi-Fi Bluetooth Zigbee,espressif,platdev
+ESP32-S3-DEVKITC-1U-N8R8,ESP32-S3-WROOM-1U Wi-Fi Bluetooth,espressif,platdev
+A014-C,M5GO Battery Bottom2,m5stack,bat
+K010,Core2 ESP32 IoT Development Kit,m5stack,platdev
+K023-B,PM2.5 Air Quality Kit,m5stack,capt
+K034,Tough ESP32 IoT Development Board Kit,m5stack,platdev
+K049-B,M5Paper ESP32 Development Kit,m5stack,platdev
+M120,Battery Module 13.2,m5stack,bat
+U019,Earth Moisture,m5stack,capt
+U078-D,UnitV2 AI Camera,m5stack,cam
+U082-F,ESP32 PSRAM Timer Camera Fisheye (OV3660),m5stack,cam
+U101,Watering Unit with Mositure Sensor and Pump,m5stack,act
+U110,Zigbee Unit,m5stack,com
+mb-p309003,Makeblock MP-P309003 Batterie,makeblock,bat
+RPI-PICO-WH,Pi Pico WH RP2040 ARM Cortex-M0+ 264Ko RAM 2Mo Flash Wi-Fi headers,raspberrypi,platdev
+RPI4-MODBP-8GB,Pi4 B 8GB BCM2711 ARM Cortex-A72 RAM 8Go MicroSD Wifi micro HDMI,raspberrypi,platdev
+RPI5-8GB-SINGLE,Pi5 8Go BCM2712 Arm Cortex-A76 RAM 8Go MicroSD Wifi HDMI,raspberrypi,platdev
+SC0872,Module caméra 11.9 MP Objectif standard Longueur de focale 4.74mm,raspberrypi,cam
+SC0873,Module caméra Pi 3 NoIR 11.9 MP Objectif standard Longueur de focale 4.74mm,raspberrypi,cam
+SC0874,Module caméra Pi 3 large 11.9MP Objectif large Longueur de focale 2.75mm,raspberrypi,cam
+SC0875,Module caméra Pi large NoIR3 11.9MP Objectif large focale 2.75mm,raspberrypi,cam
+SC0926,Caméra à obturateur global IMX296LQR-C 1.58MP,raspberrypi,cam
+SC1128,Câble de caméra FPC 200mm,raspberrypi,cab
+SC1129,Câble de caméra FPC 300mm,raspberrypi,cab
+SC0123,Téléobjectif PRI 16mm Caméra Pi 10MP,raspberrypi,cam
+101020089,Grove - Sunlight (visible and infrared light),seeed,capt
+101020634,Grove - CO2 Temperature Humidity (SCD30),seeed,capt
+102010469,XIAO nRF52840 IMU/Microphone Bluetooth,seeed,platdev
+103020312,Grove Base for XIAO,seeed,cartext
+103030000,Grove Base Shield V2.0 for Arduino,seeed,cartext
+103100142,Grove Shield for Pi Pico,seeed,cartext
+104020129,Grove Red/Black/White E-ink,seeed,ecr
+106990020,Solar Charger Shield v2.2,seeed,cartext
+110990027,Universal 4 Pin Buckled 20cm Cable,seeed,cab
+110990210,Grove 4 pin Male Jumper to 4 pin Conversion,seeed,cab
+113060006,Grove - Long Range 868MHz,seeed,com
+113060007,Grove - LoRa Radio 433MHz,seeed,com
+113991054,XIAO ESP32C3 Wi-Fi Bluetooth,seeed,platdev
+COM-18708,MicroMod Ethernet Function Board,sparkfun,cartext
+DEV-13956,Weather Shield,sparkfun,cartext
+DEV-20595,MicroMod Main Board – Double,sparkfun,cartext
+DEV-20748,MicroMod Main Board – Single,sparkfun,cartext
+GPS-13670,GPS Receiver,sparkfun,cartext
+PRT-12885,Sunny Buddy MPPT Solar Charger,sparkfun,cartext
+WRL-16781,MicroMod ESP32 Processor,sparkfun,platdev
+WRL-17506,LoRa Thing Plus - expLoRaBLE,sparkfun,platdev
+WRL-18573,MicroMod LoRa Function Board,sparkfun,com
+WRL-19177,IoT RedBoard – ESP32,sparkfun,platdev
+UP-ESP32LP,uPesy ESP32 Wroom Low Power DevKit v1.2,upesy,platdev
+wago221-615,Wago 221-615 Connecteur,wago,connec
+wago222-415,Wago 222-415 Connecteur,wago,connec
