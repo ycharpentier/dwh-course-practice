@@ -1,0 +1,36 @@
+nomcategorie,nommagasin,sumqte
+écran,Magasin Rome,100
+écran,Magasin johannesbourg,97
+actionneur,Magasin Brasilia,136
+actionneur,Magasin Pékin,130
+adaptateur,Magasin Dublin,238
+adaptateur,Magasin San José,238
+antenne,Magasin Dublin,52
+antenne,Magasin Lisbonne,52
+batterie,Magasin New Delhi,235
+batterie,Magasin Brasilia,229
+cable,Magasin New Delhi,597
+cable,Magasin Bogota,573
+caméra,Magasin New Delhi,417
+caméra,Magasin Dublin,392
+capteur/sonde,Magasin Bogota,1342
+capteur/sonde,Magasin San José,1336
+carte d'extension,Magasin Washington,1378
+carte d'extension,Magasin Dublin,1326
+chargeur,Magasin Lisbonne,99
+chargeur,Magasin Ankara,99
+communication,Magasin Tokyo,586
+communication,Magasin San José,582
+connecteur,Magasin Bogota,281
+connecteur,Magasin San José,264
+jauge,Magasin Amsterdam,98
+jauge,Magasin Tokyo,95
+kit de développement,Magasin Bogota,101
+kit de développement,Magasin New Delhi,95
+kit de développement,Magasin Mexico,95
+panneau solaire,Magasin Londres,53
+panneau solaire,Magasin Paris,51
+plateforme de développement,Magasin Washington,1600
+plateforme de développement,Magasin Bogota,1560
+prototype,Magasin Bogota,276
+prototype,Magasin Washington,267
