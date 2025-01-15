@@ -1,15 +1,15 @@
-CREATE TABLE Categorie (
+CREATE TABLE Categorie(
     idCategorie VARCHAR(100) PRIMARY KEY,
     nomCategorie VARCHAR(1000)
 );
 
-CREATE TABLE Pays (
+CREATE TABLE Pays(
     idPays VARCHAR(100) PRIMARY KEY,
     nomPays VARCHAR(1000),
     supPays NUMERIC
 );
 
-CREATE TABLE Ville (
+CREATE TABLE Ville(
     idVille VARCHAR(100) PRIMARY KEY,
     nomVille VARCHAR(1000),
     supVille NUMERIC,
@@ -17,7 +17,7 @@ CREATE TABLE Ville (
     FOREIGN KEY (idPays) REFERENCES Pays(idPays) ON DELETE CASCADE
 );
 
-CREATE TABLE Client (
+CREATE TABLE Client(
     idClient VARCHAR(100) PRIMARY KEY,
     nomClient VARCHAR(1000),
     naissanceClient DATE,
@@ -25,21 +25,21 @@ CREATE TABLE Client (
     FOREIGN KEY (idVille) REFERENCES Ville(idVille) ON DELETE CASCADE
 );
 
-CREATE TABLE Usine (
+CREATE TABLE Usine(
     idUsine VARCHAR(100) PRIMARY KEY,
     nomUsine VARCHAR(1000),
     idVille VARCHAR(100),
     FOREIGN KEY (idVille) REFERENCES Ville(idVille) ON DELETE CASCADE
 );
 
-CREATE TABLE Marque (
+CREATE TABLE Marque(
     idMarque VARCHAR(100) PRIMARY KEY,
     nomMarque VARCHAR(1000),
     idPays VARCHAR(100),
     FOREIGN KEY (idPays) REFERENCES Pays(idPays) ON DELETE CASCADE
 );
 
-CREATE TABLE Modele (
+CREATE TABLE Modele(
     idModele VARCHAR(100) PRIMARY KEY,
     nomModele VARCHAR(1000),
     idMarque VARCHAR(100),
@@ -48,13 +48,13 @@ CREATE TABLE Modele (
     FOREIGN KEY (idCategorie) REFERENCES Categorie(idCategorie) ON DELETE CASCADE
 );
 
-CREATE TABLE Produit (
+CREATE TABLE Produit(
     idProduit VARCHAR(100) PRIMARY KEY,
     idModele VARCHAR(100),
     FOREIGN KEY (idModele) REFERENCES Modele(idModele) ON DELETE CASCADE
 );
 
-CREATE TABLE Fabrication (
+CREATE TABLE Fabrication(
     idProduit VARCHAR(100),
     idUsine VARCHAR(100),
     dateFabrication DATE,
@@ -64,14 +64,14 @@ CREATE TABLE Fabrication (
     FOREIGN KEY (idUsine) REFERENCES Usine(idUsine) ON DELETE CASCADE
 );
 
-CREATE TABLE Magasin (
+CREATE TABLE Magasin(
     idMagasin VARCHAR(100) PRIMARY KEY,
     nomMagasin VARCHAR(1000),
     idVille VARCHAR(100),
     FOREIGN KEY (idVille) REFERENCES Ville(idVille) ON DELETE CASCADE
 );
 
-CREATE TABLE PaysHabitant (
+CREATE TABLE PaysHabitant(
     idPays VARCHAR(100),
     annee NUMERIC,
     nbHabitant NUMERIC,
@@ -79,7 +79,7 @@ CREATE TABLE PaysHabitant (
     FOREIGN KEY (idPays) REFERENCES Pays(idPays) ON DELETE CASCADE
 );
 
-CREATE TABLE Vente (
+CREATE TABLE Vente(
     idVente VARCHAR(100) PRIMARY KEY,
     idMagasin VARCHAR(100),
     idClient VARCHAR(100),
@@ -89,7 +89,7 @@ CREATE TABLE Vente (
     FOREIGN KEY (idClient) REFERENCES Client(idClient) ON DELETE CASCADE
 );
 
-CREATE TABLE VenteProduit (
+CREATE TABLE VenteProduit(
     idVente VARCHAR(100),
     idProduit VARCHAR(100),
     prixVente NUMERIC,
