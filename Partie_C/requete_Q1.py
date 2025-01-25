@@ -3,11 +3,11 @@
 import pandas as pd
 
 # Chemins d'acces aux differents fichiers
-abs_path = "P:/Bureau/5A/dwh-course-practice/polytech2024edd_suj_source/"
+abs_path = "/Users/arthur/Desktop/5A IMDS/dwh-course-practice/polytech2024edd_suj_source/"
 
-model_path = "tb_modele_data.csv"
-produit_path = "tb_produit_data.csv"
-venteProduit_path = "tb_venteproduit_data.csv"
+model_path = abs_path + "tb_modele_data.csv"
+produit_path = abs_path + "tb_produit_data.csv"
+venteProduit_path = abs_path + "tb_venteproduit_data.csv"
 
 # Ouverture des fichiers de donnees csv en dataframe
 df_modele = pd.read_csv(model_path)
